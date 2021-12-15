@@ -2,7 +2,6 @@ package pl.coderslab.taskmanager;
 
 import pl.coderslab.ConsoleColors;
 
-import static jdk.internal.org.jline.utils.InfoCmp.Capability.tab;
 
 public class TaskManager {
     static final String FILE_NAME = "tasks.csv";
